@@ -1,0 +1,6 @@
+Location, Product A, Product B, Product C, Product D
+Uttar Pradesh,500,100,300,400
+Haryana,200,100,540,370
+Delhi,100,500,200,700
+Punjab,200,500,200,700
+Rajasthan,200,500,300,700
