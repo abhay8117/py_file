@@ -1,0 +1,122 @@
+{
+  "Electronics": {
+    "68483": {
+      "Product Name": "Computer",
+      "Company": "Microsoft",
+      "MRP": 38000,
+      "Discount": 26,
+      "Rating": 5,
+      "Price": 28120
+    },
+    "21633": {
+      "Product Name": "DTH SetUp box",
+      "Company": "Acer",
+      "MRP": 22943,
+      "Discount": 21,
+      "Rating": 3,
+      "Price": "  "
+    }
+  },
+  "Grocery": {
+    "1579": {
+      "Product Name": "Salt",
+      "Company": "Tata",
+      "MRP": 19,
+      "Discount": 0,
+      "Rating": 5,
+      "Price": 19
+    }
+  },
+  "Sports": {
+    "8907": {
+      "Product Name": "Pad",
+      "Company": "Puma",
+      "MRP": 700,
+      "Discount": 11,
+      "Rating": 4,
+      "Price": 623
+    }
+  },
+  "Food": {
+    "8436": {
+      "Product Name": "Sandwitch",
+      "Company": "Parle",
+      "MRP": 71,
+      "Discount": 0,
+      "Rating": 4,
+      "Price": 71
+    }
+  },
+  "Beverage": {
+    "8589": {
+      "Product Name": "Wine",
+      "Company": "Coke",
+      "MRP": 33,
+      "Discount": 0,
+      "Rating": 4,
+      "Price": 33
+    }
+  },
+  "Furniture": {
+    "7169": {
+      "Product Name": "Kitchen Cabinet",
+      "Company": "Godrej",
+      "MRP": 13700,
+      "Discount": 27,
+      "Rating": 5,
+      "Price": 10001
+    }
+  },
+  "Beauty": {
+    "2165": {
+      "Product Name": "Massager",
+      "Company": "Lakme",
+      "MRP": 44780,
+      "Discount": 25,
+      "Rating": 5,
+      "Price": "  "
+    }
+  },
+  "Health": {
+    "7877": {
+      "Product Name": "Chyawanprash",
+      "Company": "Dabur",
+      "MRP": 420,
+      "Discount": 5,
+      "Rating": 5,
+      "Price": 399
+    }
+  },
+  "Fitness": {
+    "62905": {
+      "Product Name": "Exercise Bike",
+      "Company": "Cosco",
+      "MRP": 44800,
+      "Discount": 30,
+      "Rating": 5,
+      "Price": 31360
+    }
+  },
+  "Fashion": {
+    "9990": {
+      "Product Name": "Bangles",
+      "Company": "Sparky",
+      "MRP": 1000,
+      "Discount": 22,
+      "Rating": 5,
+      "Price": 780
+    }
+  },
+  "Stationary": {
+    "4232": {
+      "Product Name": "File",
+      "Company": "Natraaj",
+      "MRP": 18,
+      "Discount": 0,
+      "Rating": 3,
+      "Price": 18
+    }
+  },
+  "Pet": {},
+  "Kitchen": {}
+}
