@@ -1,0 +1,2412 @@
+{
+  "electronics": {
+    "23456": {
+      "Product Name": "Computer",
+      "Company": "HP",
+      "MRP": 50000,
+      "Discount": 10,
+      "Rating": 4,
+      "Price": 45000
+    },
+    "45877": {
+      "Product Name": "Computer",
+      "Company": "HP",
+      "MRP": 48000,
+      "Discount": 0,
+      "Rating": 5,
+      "Price": 48000
+    },
+    "23460": {
+      "Product Name": "Stabilizer",
+      "Company": "Acer",
+      "MRP": 44442,
+      "Discount": 20,
+      "Rating": 5,
+      "Price": 48000
+    },
+    "66877": {
+      "Product Name": "DVD RW",
+      "Company": "Lloyd",
+      "MRP": 41571,
+      "Discount": 28,
+      "Rating": 5,
+      "Price": 48000
+    },
+    "54643": {
+      "Product Name": "Switch",
+      "Company": "Samsung",
+      "MRP": 48848,
+      "Discount": 30,
+      "Rating": 5,
+      "Price": 48000
+    },
+    "17466": {
+      "Product Name": "DTH SetUp box",
+      "Company": "LG",
+      "MRP": 44725,
+      "Discount": 23,
+      "Rating": 5,
+      "Price": 48000
+    },
+    "69411": {
+      "Product Name": "LCD",
+      "Company": "Samsung",
+      "MRP": 18067,
+      "Discount": 24,
+      "Rating": 5,
+      "Price": 48000
+    },
+    "71691": {
+      "Product Name": "Socket",
+      "Company": "Anchor",
+      "MRP": 17476,
+      "Discount": 22,
+      "Rating": 5,
+      "Price": 48000
+    },
+    "29364": {
+      "Product Name": "Vaccum Cleaners",
+      "Company": "Micromaxc",
+      "MRP": 19380,
+      "Discount": 25,
+      "Rating": 5,
+      "Price": 48000
+    },
+    "88182": {
+      "Product Name": "Air Purifiers",
+      "Company": "Lloyd",
+      "MRP": 46769,
+      "Discount": 23,
+      "Rating": 5,
+      "Price": 48000
+    },
+    "96958": {
+      "Product Name": "Harddrive",
+      "Company": "Crompton",
+      "MRP": 47844,
+      "Discount": 23,
+      "Rating": 5,
+      "Price": 48000
+    },
+    "71705": {
+      "Product Name": "Earphone",
+      "Company": "Hitachi",
+      "MRP": 29984,
+      "Discount": 20,
+      "Rating": 5,
+      "Price": 48000
+    },
+    "70926": {
+      "Product Name": "Powerbanks",
+      "Company": "Crompton",
+      "MRP": 16983,
+      "Discount": 23,
+      "Rating": 5,
+      "Price": 48000
+    },
+    "97859": {
+      "Product Name": "Camera",
+      "Company": "Panasonic",
+      "MRP": 41772,
+      "Discount": 20,
+      "Rating": 5,
+      "Price": 48000
+    },
+    "75699": {
+      "Product Name": "LCD",
+      "Company": "Lloyd",
+      "MRP": 14726,
+      "Discount": 27,
+      "Rating": 5,
+      "Price": 48000
+    },
+    "90125": {
+      "Product Name": "Routers",
+      "Company": "Havells",
+      "MRP": 47711,
+      "Discount": 30,
+      "Rating": 5,
+      "Price": 48000
+    },
+    "81137": {
+      "Product Name": "Harddrive",
+      "Company": "Panasonic",
+      "MRP": 31923,
+      "Discount": 22,
+      "Rating": 5,
+      "Price": 48000
+    },
+    "92026": {
+      "Product Name": "Toaster",
+      "Company": "Anchor",
+      "MRP": 47083,
+      "Discount": 20,
+      "Rating": 5,
+      "Price": 48000
+    },
+    "47292": {
+      "Product Name": "Phone",
+      "Company": "Bajaj",
+      "MRP": 49884,
+      "Discount": 20,
+      "Rating": 5,
+      "Price": 48000
+    },
+    "69307": {
+      "Product Name": "Geysers",
+      "Company": "LG",
+      "MRP": 20941,
+      "Discount": 30,
+      "Rating": 5,
+      "Price": 48000
+    },
+    "60967": {
+      "Product Name": "Joystick",
+      "Company": "Micromaxc",
+      "MRP": 19025,
+      "Discount": 25,
+      "Rating": 5,
+      "Price": 48000
+    },
+    "44256": {
+      "Product Name": "Routers",
+      "Company": "LG",
+      "MRP": 17668,
+      "Discount": 26,
+      "Rating": 5,
+      "Price": 48000
+    },
+    "25735": {
+      "Product Name": "RAM",
+      "Company": "Lloyd",
+      "MRP": 48514,
+      "Discount": 26,
+      "Rating": 5,
+      "Price": 48000
+    },
+    "47761": {
+      "Product Name": "DSLR",
+      "Company": "Acer",
+      "MRP": 32932,
+      "Discount": 29,
+      "Rating": 5,
+      "Price": 48000
+    },
+    "28150": {
+      "Product Name": "Pendrives",
+      "Company": "LG",
+      "MRP": 16251,
+      "Discount": 26,
+      "Rating": 5,
+      "Price": 48000
+    },
+    "20934": {
+      "Product Name": "Microwaves",
+      "Company": "LG",
+      "MRP": 34967,
+      "Discount": 25,
+      "Rating": 5,
+      "Price": 48000
+    },
+    "91798": {
+      "Product Name": "Electric Wires",
+      "Company": "Panasonic",
+      "MRP": 12220,
+      "Discount": 28,
+      "Rating": 5,
+      "Price": 48000
+    },
+    "75158": {
+      "Product Name": "Computer",
+      "Company": "HP",
+      "MRP": 34881,
+      "Discount": 22,
+      "Rating": 5,
+      "Price": 48000
+    },
+    "23813": {
+      "Product Name": "Remote",
+      "Company": "Crompton",
+      "MRP": 20995,
+      "Discount": 26,
+      "Rating": 5,
+      "Price": 48000
+    },
+    "17340": {
+      "Product Name": "Powerbanks",
+      "Company": "Asus",
+      "MRP": 29719,
+      "Discount": 23,
+      "Rating": 5,
+      "Price": 48000
+    },
+    "97131": {
+      "Product Name": "DSLR",
+      "Company": "Micromaxc",
+      "MRP": 48877,
+      "Discount": 20,
+      "Rating": 5,
+      "Price": 48000
+    },
+    "35935": {
+      "Product Name": "Pendrives",
+      "Company": "Whirlpool",
+      "MRP": 20142,
+      "Discount": 26,
+      "Rating": 5,
+      "Price": 48000
+    },
+    "64551": {
+      "Product Name": "Lens",
+      "Company": "HP",
+      "MRP": 45308,
+      "Discount": 24,
+      "Rating": 5,
+      "Price": 48000
+    },
+    "23237": {
+      "Product Name": "Harddrive",
+      "Company": "Hitachi",
+      "MRP": 29512,
+      "Discount": 26,
+      "Rating": 5,
+      "Price": 48000
+    },
+    "59699": {
+      "Product Name": "Processor",
+      "Company": "HCL",
+      "MRP": 37885,
+      "Discount": 21,
+      "Rating": 5,
+      "Price": 48000
+    },
+    "97879": {
+      "Product Name": "Graphic Card",
+      "Company": "Bajaj",
+      "MRP": 42549,
+      "Discount": 27,
+      "Rating": 5,
+      "Price": 48000
+    },
+    "19411": {
+      "Product Name": "TV",
+      "Company": "HP",
+      "MRP": 23269,
+      "Discount": 29,
+      "Rating": 5,
+      "Price": 48000
+    },
+    "71163": {
+      "Product Name": "Lens",
+      "Company": "Nokia",
+      "MRP": 21635,
+      "Discount": 27,
+      "Rating": 5,
+      "Price": 48000
+    },
+    "78624": {
+      "Product Name": "Washing Machine",
+      "Company": "LG",
+      "MRP": 26180,
+      "Discount": 25,
+      "Rating": 5,
+      "Price": 48000
+    },
+    "24256": {
+      "Product Name": "UPS",
+      "Company": "Dell",
+      "MRP": 32068,
+      "Discount": 25,
+      "Rating": 5,
+      "Price": 48000
+    },
+    "28941": {
+      "Product Name": "Desktop PCs",
+      "Company": "Acer",
+      "MRP": 24619,
+      "Discount": 29,
+      "Rating": 5,
+      "Price": 48000
+    },
+    "47284": {
+      "Product Name": "Cooler",
+      "Company": "Samsung",
+      "MRP": 29617,
+      "Discount": 21,
+      "Rating": 5,
+      "Price": 48000
+    },
+    "95234": {
+      "Product Name": "Graphic Card",
+      "Company": "Nokia",
+      "MRP": 15824,
+      "Discount": 22,
+      "Rating": 5,
+      "Price": 48000
+    },
+    "62229": {
+      "Product Name": "Blender",
+      "Company": "Asus",
+      "MRP": 21049,
+      "Discount": 24,
+      "Rating": 5,
+      "Price": 48000
+    },
+    "76700": {
+      "Product Name": "Washing Machine",
+      "Company": "Hitachi",
+      "MRP": 18129,
+      "Discount": 28,
+      "Rating": 5,
+      "Price": 48000
+    },
+    "83628": {
+      "Product Name": "Cooler",
+      "Company": "Dell",
+      "MRP": 21267,
+      "Discount": 29,
+      "Rating": 5,
+      "Price": 48000
+    },
+    "50980": {
+      "Product Name": "USB Cable",
+      "Company": "Asus",
+      "MRP": 37047,
+      "Discount": 20,
+      "Rating": 5,
+      "Price": 48000
+    },
+    "48121": {
+      "Product Name": "Scanner",
+      "Company": "Havells",
+      "MRP": 38961,
+      "Discount": 25,
+      "Rating": 5,
+      "Price": 48000
+    },
+    "29817": {
+      "Product Name": "Speakers",
+      "Company": "Sony",
+      "MRP": 45771,
+      "Discount": 20,
+      "Rating": 5,
+      "Price": 48000
+    },
+    "39308": {
+      "Product Name": "Printers",
+      "Company": "Acer",
+      "MRP": 49239,
+      "Discount": 24,
+      "Rating": 5,
+      "Price": 48000
+    },
+    "71283": {
+      "Product Name": "SmartWatches",
+      "Company": "Nokia",
+      "MRP": 29341,
+      "Discount": 22,
+      "Rating": 5,
+      "Price": 48000
+    },
+    "15538": {
+      "Product Name": "DVD RW",
+      "Company": "Panasonic",
+      "MRP": 14918,
+      "Discount": 22,
+      "Rating": 5,
+      "Price": 48000
+    },
+    "48732": {
+      "Product Name": "Spy Camera",
+      "Company": "Samsung",
+      "MRP": 45782,
+      "Discount": 26,
+      "Rating": 5,
+      "Price": 48000
+    },
+    "97982": {
+      "Product Name": "Memory Card",
+      "Company": "Micromaxc",
+      "MRP": 49884,
+      "Discount": 22,
+      "Rating": 5,
+      "Price": 48000
+    },
+    "63509": {
+      "Product Name": "Air Purifiers",
+      "Company": "Acer",
+      "MRP": 43089,
+      "Discount": 20,
+      "Rating": 5,
+      "Price": 48000
+    },
+    "84000": {
+      "Product Name": "TV Tuner",
+      "Company": "Whirlpool",
+      "MRP": 37099,
+      "Discount": 21,
+      "Rating": 5,
+      "Price": 48000
+    },
+    "71791": {
+      "Product Name": "Earphone",
+      "Company": "LG",
+      "MRP": 32313,
+      "Discount": 20,
+      "Rating": 5,
+      "Price": 48000
+    },
+    "89317": {
+      "Product Name": "Electric Kettle",
+      "Company": "Hitachi",
+      "MRP": 10498,
+      "Discount": 20,
+      "Rating": 5,
+      "Price": 48000
+    },
+    "47055": {
+      "Product Name": "Harddrive",
+      "Company": "Whirlpool",
+      "MRP": 46873,
+      "Discount": 23,
+      "Rating": 5,
+      "Price": 48000
+    },
+    "53668": {
+      "Product Name": "Blender",
+      "Company": "Acer",
+      "MRP": 43900,
+      "Discount": 24,
+      "Rating": 5,
+      "Price": 48000
+    },
+    "34307": {
+      "Product Name": "Xbox",
+      "Company": "Samsung",
+      "MRP": 16074,
+      "Discount": 30,
+      "Rating": 5,
+      "Price": 48000
+    },
+    "71878": {
+      "Product Name": "Remote",
+      "Company": "Havells",
+      "MRP": 31464,
+      "Discount": 26,
+      "Rating": 5,
+      "Price": 48000
+    },
+    "73028": {
+      "Product Name": "Adapter",
+      "Company": "LG",
+      "MRP": 14035,
+      "Discount": 25,
+      "Rating": 5,
+      "Price": 48000
+    },
+    "69186": {
+      "Product Name": "Electric Wires",
+      "Company": "Bajaj",
+      "MRP": 10795,
+      "Discount": 27,
+      "Rating": 5,
+      "Price": 48000
+    },
+    "59977": {
+      "Product Name": "Sewing Machine",
+      "Company": "Hitachi",
+      "MRP": 35029,
+      "Discount": 22,
+      "Rating": 5,
+      "Price": 48000
+    },
+    "25128": {
+      "Product Name": "DSLR",
+      "Company": "Panasonic",
+      "MRP": 26690,
+      "Discount": 30,
+      "Rating": 5,
+      "Price": 48000
+    },
+    "17468": {
+      "Product Name": "SmartWatches",
+      "Company": "Asus",
+      "MRP": 41034,
+      "Discount": 22,
+      "Rating": 5,
+      "Price": 48000
+    },
+    "65390": {
+      "Product Name": "DTH SetUp box",
+      "Company": "Hitachi",
+      "MRP": 25721,
+      "Discount": 25,
+      "Rating": 5,
+      "Price": 48000
+    },
+    "86002": {
+      "Product Name": "Desktop PCs",
+      "Company": "Bajaj",
+      "MRP": 39960,
+      "Discount": 28,
+      "Rating": 5,
+      "Price": 48000
+    },
+    "46700": {
+      "Product Name": "Speakers",
+      "Company": "Acer",
+      "MRP": 44183,
+      "Discount": 26,
+      "Rating": 5,
+      "Price": 48000
+    },
+    "54353": {
+      "Product Name": "Soundbars",
+      "Company": "HCL",
+      "MRP": 48685,
+      "Discount": 27,
+      "Rating": 5,
+      "Price": 48000
+    },
+    "80189": {
+      "Product Name": "Printers",
+      "Company": "Acer",
+      "MRP": 39034,
+      "Discount": 22,
+      "Rating": 5,
+      "Price": 48000
+    },
+    "35249": {
+      "Product Name": "Microphone",
+      "Company": "Panasonic",
+      "MRP": 39111,
+      "Discount": 25,
+      "Rating": 5,
+      "Price": 48000
+    },
+    "96945": {
+      "Product Name": "Lens",
+      "Company": "Anchor",
+      "MRP": 27974,
+      "Discount": 26,
+      "Rating": 5,
+      "Price": 48000
+    },
+    "25630": {
+      "Product Name": "Desktop PCs",
+      "Company": "HP",
+      "MRP": 35166,
+      "Discount": 22,
+      "Rating": 5,
+      "Price": 48000
+    },
+    "92666": {
+      "Product Name": "Scanner",
+      "Company": "Bajaj",
+      "MRP": 45229,
+      "Discount": 22,
+      "Rating": 5,
+      "Price": 48000
+    },
+    "20520": {
+      "Product Name": "Fan",
+      "Company": "Dell",
+      "MRP": 27402,
+      "Discount": 22,
+      "Rating": 5,
+      "Price": 48000
+    },
+    "97343": {
+      "Product Name": "Heater",
+      "Company": "Nokia",
+      "MRP": 45313,
+      "Discount": 22,
+      "Rating": 5,
+      "Price": 48000
+    },
+    "54908": {
+      "Product Name": "Speakers",
+      "Company": "Dell",
+      "MRP": 43951,
+      "Discount": 20,
+      "Rating": 5,
+      "Price": 48000
+    },
+    "18065": {
+      "Product Name": "Mouse",
+      "Company": "Panasonic",
+      "MRP": 34572,
+      "Discount": 27,
+      "Rating": 5,
+      "Price": 48000
+    },
+    "57484": {
+      "Product Name": "Desktop PCs",
+      "Company": "Hitachi",
+      "MRP": 44951,
+      "Discount": 26,
+      "Rating": 5,
+      "Price": 48000
+    },
+    "91928": {
+      "Product Name": "Camera",
+      "Company": "Acer",
+      "MRP": 29397,
+      "Discount": 25,
+      "Rating": 5,
+      "Price": 48000
+    },
+    "44509": {
+      "Product Name": "Graphic Card",
+      "Company": "Usha",
+      "MRP": 36472,
+      "Discount": 23,
+      "Rating": 5,
+      "Price": 48000
+    },
+    "49956": {
+      "Product Name": "Water Purifiers",
+      "Company": "Micromaxc",
+      "MRP": 45333,
+      "Discount": 29,
+      "Rating": 5,
+      "Price": 48000
+    },
+    "59185": {
+      "Product Name": "Harddrive",
+      "Company": "Crompton",
+      "MRP": 15978,
+      "Discount": 21,
+      "Rating": 5,
+      "Price": 48000
+    },
+    "95382": {
+      "Product Name": "Xbox",
+      "Company": "Acer",
+      "MRP": 46542,
+      "Discount": 24,
+      "Rating": 5,
+      "Price": 48000
+    },
+    "49359": {
+      "Product Name": "Phone",
+      "Company": "Usha",
+      "MRP": 41132,
+      "Discount": 24,
+      "Rating": 5,
+      "Price": 48000
+    },
+    "24327": {
+      "Product Name": "LCD",
+      "Company": "Havells",
+      "MRP": 37766,
+      "Discount": 24,
+      "Rating": 5,
+      "Price": 48000
+    },
+    "67225": {
+      "Product Name": "LCD",
+      "Company": "Asus",
+      "MRP": 21590,
+      "Discount": 21,
+      "Rating": 5,
+      "Price": 48000
+    },
+    "87468": {
+      "Product Name": "Xbox",
+      "Company": "Asus",
+      "MRP": 48045,
+      "Discount": 26,
+      "Rating": 5,
+      "Price": 48000
+    },
+    "68630": {
+      "Product Name": "Remote",
+      "Company": "Nokia",
+      "MRP": 12845,
+      "Discount": 26,
+      "Rating": 5,
+      "Price": 48000
+    },
+    "53731": {
+      "Product Name": "RAM",
+      "Company": "Micromaxc",
+      "MRP": 11149,
+      "Discount": 23,
+      "Rating": 5,
+      "Price": 48000
+    },
+    "85969": {
+      "Product Name": "Iron",
+      "Company": "Sony",
+      "MRP": 22050,
+      "Discount": 24,
+      "Rating": 5,
+      "Price": 48000
+    },
+    "30164": {
+      "Product Name": "Mixer",
+      "Company": "Micromaxc",
+      "MRP": 32190,
+      "Discount": 29,
+      "Rating": 5,
+      "Price": 48000
+    },
+    "82984": {
+      "Product Name": "Mixer",
+      "Company": "Lloyd",
+      "MRP": 43782,
+      "Discount": 27,
+      "Rating": 5,
+      "Price": 48000
+    },
+    "61932": {
+      "Product Name": "Xbox",
+      "Company": "Lloyd",
+      "MRP": 47177,
+      "Discount": 27,
+      "Rating": 5,
+      "Price": 48000
+    },
+    "34687": {
+      "Product Name": "Lens",
+      "Company": "HP",
+      "MRP": 33250,
+      "Discount": 26,
+      "Rating": 5,
+      "Price": 48000
+    },
+    "78289": {
+      "Product Name": "Sewing Machine",
+      "Company": "HP",
+      "MRP": 21605,
+      "Discount": 23,
+      "Rating": 5,
+      "Price": 48000
+    },
+    "26160": {
+      "Product Name": "Headphone",
+      "Company": "Dell",
+      "MRP": 31397,
+      "Discount": 22,
+      "Rating": 5,
+      "Price": 48000
+    },
+    "22913": {
+      "Product Name": "Lens",
+      "Company": "Panasonic",
+      "MRP": 12369,
+      "Discount": 28,
+      "Rating": 5,
+      "Price": 48000
+    },
+    "94184": {
+      "Product Name": "Xbox",
+      "Company": "HP",
+      "MRP": 47851,
+      "Discount": 26,
+      "Rating": 5,
+      "Price": 48000
+    },
+    "13561": {
+      "Product Name": "Drone",
+      "Company": "Bajaj",
+      "MRP": 46198,
+      "Discount": 28,
+      "Rating": 5,
+      "Price": 48000
+    },
+    "90529": {
+      "Product Name": "Lens",
+      "Company": "HCL",
+      "MRP": 42336,
+      "Discount": 22,
+      "Rating": 5,
+      "Price": 48000
+    },
+    "91687": {
+      "Product Name": "Vaccum Cleaners",
+      "Company": "Acer",
+      "MRP": 19413,
+      "Discount": 28,
+      "Rating": 5,
+      "Price": 48000
+    },
+    "42360": {
+      "Product Name": "Stabilizer",
+      "Company": "HCL",
+      "MRP": 18777,
+      "Discount": 29,
+      "Rating": 5,
+      "Price": 48000
+    },
+    "39320": {
+      "Product Name": "Earphone",
+      "Company": "Havells",
+      "MRP": 26215,
+      "Discount": 25,
+      "Rating": 5,
+      "Price": 48000
+    },
+    "11984": {
+      "Product Name": "UPS",
+      "Company": "Samsung",
+      "MRP": 37601,
+      "Discount": 26,
+      "Rating": 5,
+      "Price": 48000
+    },
+    "65809": {
+      "Product Name": "Remote",
+      "Company": "Acer",
+      "MRP": 44451,
+      "Discount": 30,
+      "Rating": 5,
+      "Price": 48000
+    },
+    "54107": {
+      "Product Name": "Memory Card",
+      "Company": "Sony",
+      "MRP": 30844,
+      "Discount": 29,
+      "Rating": 5,
+      "Price": 48000
+    },
+    "39567": {
+      "Product Name": "Electric Wires",
+      "Company": "Anchor",
+      "MRP": 18960,
+      "Discount": 25,
+      "Rating": 5,
+      "Price": 48000
+    },
+    "85013": {
+      "Product Name": "Sewing Machine",
+      "Company": "Panasonic",
+      "MRP": 13646,
+      "Discount": 30,
+      "Rating": 5,
+      "Price": 48000
+    },
+    "39789": {
+      "Product Name": "Washing Machine",
+      "Company": "Lloyd",
+      "MRP": 28356,
+      "Discount": 24,
+      "Rating": 5,
+      "Price": 48000
+    },
+    "74891": {
+      "Product Name": "Sewing Machine",
+      "Company": "Micromaxc",
+      "MRP": 20379,
+      "Discount": 29,
+      "Rating": 5,
+      "Price": 48000
+    },
+    "25932": {
+      "Product Name": "Keyboard",
+      "Company": "HCL",
+      "MRP": 32439,
+      "Discount": 28,
+      "Rating": 5,
+      "Price": 48000
+    },
+    "20405": {
+      "Product Name": "Graphic Card",
+      "Company": "Acer",
+      "MRP": 46361,
+      "Discount": 20,
+      "Rating": 5,
+      "Price": 48000
+    },
+    "34322": {
+      "Product Name": "Sewing Machine",
+      "Company": "Micromaxc",
+      "MRP": 13344,
+      "Discount": 24,
+      "Rating": 5,
+      "Price": 48000
+    },
+    "81355": {
+      "Product Name": "Soundbars",
+      "Company": "HCL",
+      "MRP": 38550,
+      "Discount": 29,
+      "Rating": 5,
+      "Price": 48000
+    },
+    "96651": {
+      "Product Name": "Electric Kettle",
+      "Company": "Samsung",
+      "MRP": 12105,
+      "Discount": 26,
+      "Rating": 5,
+      "Price": 48000
+    },
+    "44410": {
+      "Product Name": "Motherboard",
+      "Company": "Dell",
+      "MRP": 21466,
+      "Discount": 21,
+      "Rating": 5,
+      "Price": 48000
+    },
+    "88349": {
+      "Product Name": "DVD RW",
+      "Company": "Crompton",
+      "MRP": 34699,
+      "Discount": 25,
+      "Rating": 5,
+      "Price": 48000
+    },
+    "34995": {
+      "Product Name": "AC",
+      "Company": "Usha",
+      "MRP": 43374,
+      "Discount": 20,
+      "Rating": 5,
+      "Price": 48000
+    },
+    "76318": {
+      "Product Name": "Printers",
+      "Company": "Sony",
+      "MRP": 47762,
+      "Discount": 21,
+      "Rating": 5,
+      "Price": 48000
+    },
+    "63970": {
+      "Product Name": "Heater",
+      "Company": "Dell",
+      "MRP": 25689,
+      "Discount": 22,
+      "Rating": 5,
+      "Price": 48000
+    },
+    "31583": {
+      "Product Name": "Inverter",
+      "Company": "HP",
+      "MRP": 28021,
+      "Discount": 25,
+      "Rating": 5,
+      "Price": 48000
+    },
+    "88213": {
+      "Product Name": "DSLR",
+      "Company": "Lloyd",
+      "MRP": 27479,
+      "Discount": 24,
+      "Rating": 5,
+      "Price": 48000
+    },
+    "74638": {
+      "Product Name": "RAM",
+      "Company": "Micromaxc",
+      "MRP": 32011,
+      "Discount": 23,
+      "Rating": 5,
+      "Price": 48000
+    },
+    "94707": {
+      "Product Name": "Bulb",
+      "Company": "Crompton",
+      "MRP": 37792,
+      "Discount": 24,
+      "Rating": 5,
+      "Price": 48000
+    },
+    "56923": {
+      "Product Name": "TV",
+      "Company": "Hitachi",
+      "MRP": 20078,
+      "Discount": 23,
+      "Rating": 5,
+      "Price": 48000
+    },
+    "25560": {
+      "Product Name": "Pendrives",
+      "Company": "LG",
+      "MRP": 35861,
+      "Discount": 23,
+      "Rating": 5,
+      "Price": 48000
+    },
+    "61201": {
+      "Product Name": "Vaccum Cleaners",
+      "Company": "HCL",
+      "MRP": 27094,
+      "Discount": 27,
+      "Rating": 5,
+      "Price": 48000
+    },
+    "39985": {
+      "Product Name": "Modem",
+      "Company": "Sony",
+      "MRP": 44828,
+      "Discount": 29,
+      "Rating": 5,
+      "Price": 48000
+    },
+    "37993": {
+      "Product Name": "Fan",
+      "Company": "Dell",
+      "MRP": 46060,
+      "Discount": 28,
+      "Rating": 5,
+      "Price": 48000
+    },
+    "80349": {
+      "Product Name": "Fan",
+      "Company": "Acer",
+      "MRP": 48617,
+      "Discount": 20,
+      "Rating": 5,
+      "Price": 48000
+    },
+    "87914": {
+      "Product Name": "Monitors",
+      "Company": "Lloyd",
+      "MRP": 45633,
+      "Discount": 22,
+      "Rating": 5,
+      "Price": 48000
+    },
+    "90917": {
+      "Product Name": "Memory Card",
+      "Company": "Anchor",
+      "MRP": 34991,
+      "Discount": 26,
+      "Rating": 5,
+      "Price": 48000
+    },
+    "19185": {
+      "Product Name": "Remote",
+      "Company": "Dell",
+      "MRP": 49774,
+      "Discount": 20,
+      "Rating": 5,
+      "Price": 48000
+    },
+    "40893": {
+      "Product Name": "Routers",
+      "Company": "Havells",
+      "MRP": 15786,
+      "Discount": 24,
+      "Rating": 5,
+      "Price": 48000
+    },
+    "27514": {
+      "Product Name": "TV",
+      "Company": "Samsung",
+      "MRP": 21881,
+      "Discount": 29,
+      "Rating": 5,
+      "Price": 48000
+    },
+    "99043": {
+      "Product Name": "Camera",
+      "Company": "Hitachi",
+      "MRP": 32198,
+      "Discount": 22,
+      "Rating": 5,
+      "Price": 48000
+    },
+    "97287": {
+      "Product Name": "Xbox",
+      "Company": "Crompton",
+      "MRP": 45946,
+      "Discount": 24,
+      "Rating": 5,
+      "Price": 48000
+    },
+    "16715": {
+      "Product Name": "Powerbanks",
+      "Company": "Samsung",
+      "MRP": 22696,
+      "Discount": 23,
+      "Rating": 5,
+      "Price": 48000
+    },
+    "42134": {
+      "Product Name": "Fan",
+      "Company": "Asus",
+      "MRP": 14647,
+      "Discount": 22,
+      "Rating": 5,
+      "Price": 48000
+    },
+    "83006": {
+      "Product Name": "Joystick",
+      "Company": "HCL",
+      "MRP": 46581,
+      "Discount": 27,
+      "Rating": 5,
+      "Price": 48000
+    },
+    "38570": {
+      "Product Name": "HDMI",
+      "Company": "LG",
+      "MRP": 14573,
+      "Discount": 29,
+      "Rating": 5,
+      "Price": 48000
+    },
+    "95465": {
+      "Product Name": "Mouse",
+      "Company": "Crompton",
+      "MRP": 16854,
+      "Discount": 28,
+      "Rating": 5,
+      "Price": 48000
+    },
+    "32340": {
+      "Product Name": "Routers",
+      "Company": "Usha",
+      "MRP": 27004,
+      "Discount": 29,
+      "Rating": 5,
+      "Price": 48000
+    },
+    "81177": {
+      "Product Name": "Soundbars",
+      "Company": "Dell",
+      "MRP": 41904,
+      "Discount": 20,
+      "Rating": 5,
+      "Price": 48000
+    },
+    "11575": {
+      "Product Name": "TV Tuner",
+      "Company": "Lloyd",
+      "MRP": 28390,
+      "Discount": 29,
+      "Rating": 5,
+      "Price": 48000
+    },
+    "31745": {
+      "Product Name": "Speakers",
+      "Company": "Samsung",
+      "MRP": 29741,
+      "Discount": 26,
+      "Rating": 5,
+      "Price": 48000
+    },
+    "21097": {
+      "Product Name": "Water Purifiers",
+      "Company": "Crompton",
+      "MRP": 28195,
+      "Discount": 26,
+      "Rating": 5,
+      "Price": 48000
+    },
+    "49704": {
+      "Product Name": "Memory Card",
+      "Company": "Acer",
+      "MRP": 43926,
+      "Discount": 29,
+      "Rating": 5,
+      "Price": 48000
+    },
+    "75513": {
+      "Product Name": "Mobile",
+      "Company": "Asus",
+      "MRP": 32306,
+      "Discount": 24,
+      "Rating": 5,
+      "Price": 48000
+    },
+    "28255": {
+      "Product Name": "Electric Wires",
+      "Company": "Sony",
+      "MRP": 31067,
+      "Discount": 23,
+      "Rating": 5,
+      "Price": 48000
+    },
+    "46125": {
+      "Product Name": "Heater",
+      "Company": "Dell",
+      "MRP": 24800,
+      "Discount": 25,
+      "Rating": 5,
+      "Price": 48000
+    },
+    "93715": {
+      "Product Name": "DTH SetUp box",
+      "Company": "Lloyd",
+      "MRP": 36862,
+      "Discount": 30,
+      "Rating": 5,
+      "Price": 48000
+    },
+    "32410": {
+      "Product Name": "Modem",
+      "Company": "Hitachi",
+      "MRP": 37427,
+      "Discount": 25,
+      "Rating": 5,
+      "Price": 48000
+    },
+    "99669": {
+      "Product Name": "Routers",
+      "Company": "HCL",
+      "MRP": 13345,
+      "Discount": 28,
+      "Rating": 5,
+      "Price": 48000
+    },
+    "93439": {
+      "Product Name": "Cooler",
+      "Company": "Whirlpool",
+      "MRP": 44037,
+      "Discount": 30,
+      "Rating": 5,
+      "Price": 48000
+    },
+    "79318": {
+      "Product Name": "Earphone",
+      "Company": "Asus",
+      "MRP": 37681,
+      "Discount": 24,
+      "Rating": 5,
+      "Price": 48000
+    },
+    "35340": {
+      "Product Name": "Camera",
+      "Company": "Sony",
+      "MRP": 19667,
+      "Discount": 21,
+      "Rating": 5,
+      "Price": 48000
+    },
+    "89702": {
+      "Product Name": "Geysers",
+      "Company": "Dell",
+      "MRP": 11946,
+      "Discount": 24,
+      "Rating": 5,
+      "Price": 48000
+    },
+    "64186": {
+      "Product Name": "Lens",
+      "Company": "Dell",
+      "MRP": 22986,
+      "Discount": 20,
+      "Rating": 5,
+      "Price": 48000
+    },
+    "24878": {
+      "Product Name": "Microwaves",
+      "Company": "Lloyd",
+      "MRP": 13788,
+      "Discount": 26,
+      "Rating": 5,
+      "Price": 48000
+    },
+    "58299": {
+      "Product Name": "Charger",
+      "Company": "Havells",
+      "MRP": 48035,
+      "Discount": 21,
+      "Rating": 5,
+      "Price": 48000
+    },
+    "34121": {
+      "Product Name": "Immersion Rod",
+      "Company": "Usha",
+      "MRP": 46672,
+      "Discount": 29,
+      "Rating": 5,
+      "Price": 48000
+    },
+    "86484": {
+      "Product Name": "Sewing Machine",
+      "Company": "Panasonic",
+      "MRP": 28923,
+      "Discount": 23,
+      "Rating": 5,
+      "Price": 48000
+    },
+    "76965": {
+      "Product Name": "Printers",
+      "Company": "LG",
+      "MRP": 34664,
+      "Discount": 23,
+      "Rating": 5,
+      "Price": 48000
+    },
+    "21809": {
+      "Product Name": "Lens",
+      "Company": "Anchor",
+      "MRP": 35134,
+      "Discount": 28,
+      "Rating": 5,
+      "Price": 48000
+    },
+    "11170": {
+      "Product Name": "Spy Camera",
+      "Company": "Crompton",
+      "MRP": 23404,
+      "Discount": 28,
+      "Rating": 5,
+      "Price": 48000
+    },
+    "92784": {
+      "Product Name": "Fan",
+      "Company": "Anchor",
+      "MRP": 14413,
+      "Discount": 28,
+      "Rating": 5,
+      "Price": 48000
+    },
+    "79678": {
+      "Product Name": "Drone",
+      "Company": "Asus",
+      "MRP": 38854,
+      "Discount": 24,
+      "Rating": 5,
+      "Price": 48000
+    },
+    "85062": {
+      "Product Name": "Air Purifiers",
+      "Company": "Sony",
+      "MRP": 41094,
+      "Discount": 23,
+      "Rating": 5,
+      "Price": 48000
+    },
+    "40206": {
+      "Product Name": "RAM",
+      "Company": "Lloyd",
+      "MRP": 40257,
+      "Discount": 27,
+      "Rating": 5,
+      "Price": 48000
+    },
+    "61650": {
+      "Product Name": "Microwaves",
+      "Company": "Hitachi",
+      "MRP": 33649,
+      "Discount": 20,
+      "Rating": 5,
+      "Price": 48000
+    },
+    "31405": {
+      "Product Name": "Pendrives",
+      "Company": "Samsung",
+      "MRP": 42036,
+      "Discount": 23,
+      "Rating": 5,
+      "Price": 48000
+    },
+    "79283": {
+      "Product Name": "Air Purifiers",
+      "Company": "Dell",
+      "MRP": 20299,
+      "Discount": 28,
+      "Rating": 5,
+      "Price": 48000
+    },
+    "88743": {
+      "Product Name": "Camera",
+      "Company": "Usha",
+      "MRP": 17880,
+      "Discount": 20,
+      "Rating": 5,
+      "Price": 48000
+    },
+    "72014": {
+      "Product Name": "TV",
+      "Company": "Whirlpool",
+      "MRP": 46821,
+      "Discount": 25,
+      "Rating": 5,
+      "Price": 48000
+    },
+    "21375": {
+      "Product Name": "Powerbanks",
+      "Company": "HCL",
+      "MRP": 36510,
+      "Discount": 25,
+      "Rating": 5,
+      "Price": 48000
+    },
+    "68981": {
+      "Product Name": "UPS",
+      "Company": "HP",
+      "MRP": 30649,
+      "Discount": 25,
+      "Rating": 5,
+      "Price": 48000
+    },
+    "29464": {
+      "Product Name": "Graphic Card",
+      "Company": "Havells",
+      "MRP": 25340,
+      "Discount": 30,
+      "Rating": 5,
+      "Price": 48000
+    },
+    "77209": {
+      "Product Name": "Harddrive",
+      "Company": "Crompton",
+      "MRP": 47331,
+      "Discount": 28,
+      "Rating": 5,
+      "Price": 48000
+    },
+    "29123": {
+      "Product Name": "Heater",
+      "Company": "HP",
+      "MRP": 43690,
+      "Discount": 20,
+      "Rating": 5,
+      "Price": 48000
+    },
+    "22682": {
+      "Product Name": "AC",
+      "Company": "Lloyd",
+      "MRP": 20563,
+      "Discount": 20,
+      "Rating": 5,
+      "Price": 48000
+    },
+    "59204": {
+      "Product Name": "SmartWatches",
+      "Company": "Crompton",
+      "MRP": 26158,
+      "Discount": 20,
+      "Rating": 5,
+      "Price": 48000
+    },
+    "49981": {
+      "Product Name": "Graphic Card",
+      "Company": "Usha",
+      "MRP": 47714,
+      "Discount": 22,
+      "Rating": 5,
+      "Price": 48000
+    },
+    "62082": {
+      "Product Name": "Scanner",
+      "Company": "Anchor",
+      "MRP": 46250,
+      "Discount": 27,
+      "Rating": 5,
+      "Price": 48000
+    },
+    "59571": {
+      "Product Name": "Charger",
+      "Company": "Nokia",
+      "MRP": 14144,
+      "Discount": 22,
+      "Rating": 5,
+      "Price": 48000
+    },
+    "60109": {
+      "Product Name": "Lens",
+      "Company": "Hitachi",
+      "MRP": 33894,
+      "Discount": 29,
+      "Rating": 5,
+      "Price": 48000
+    },
+    "16386": {
+      "Product Name": "RAM",
+      "Company": "Hitachi",
+      "MRP": 49509,
+      "Discount": 22,
+      "Rating": 5,
+      "Price": 48000
+    },
+    "41914": {
+      "Product Name": "UPS",
+      "Company": "Anchor",
+      "MRP": 20104,
+      "Discount": 30,
+      "Rating": 5,
+      "Price": 48000
+    },
+    "16025": {
+      "Product Name": "Electric Wires",
+      "Company": "LG",
+      "MRP": 45289,
+      "Discount": 27,
+      "Rating": 5,
+      "Price": 48000
+    },
+    "53323": {
+      "Product Name": "Joystick",
+      "Company": "Nokia",
+      "MRP": 22558,
+      "Discount": 22,
+      "Rating": 5,
+      "Price": 48000
+    },
+    "13930": {
+      "Product Name": "Heater",
+      "Company": "Asus",
+      "MRP": 13941,
+      "Discount": 26,
+      "Rating": 5,
+      "Price": 48000
+    },
+    "32148": {
+      "Product Name": "Switch",
+      "Company": "Panasonic",
+      "MRP": 10598,
+      "Discount": 30,
+      "Rating": 5,
+      "Price": 48000
+    },
+    "59555": {
+      "Product Name": "Microphone",
+      "Company": "HCL",
+      "MRP": 42559,
+      "Discount": 20,
+      "Rating": 5,
+      "Price": 48000
+    },
+    "14993": {
+      "Product Name": "Laptop",
+      "Company": "Dell",
+      "MRP": 18478,
+      "Discount": 26,
+      "Rating": 5,
+      "Price": 48000
+    },
+    "71714": {
+      "Product Name": "Electric Kettle",
+      "Company": "Samsung",
+      "MRP": 13933,
+      "Discount": 27,
+      "Rating": 5,
+      "Price": 48000
+    },
+    "88110": {
+      "Product Name": "Mouse",
+      "Company": "Acer",
+      "MRP": 27751,
+      "Discount": 24,
+      "Rating": 5,
+      "Price": 48000
+    },
+    "73643": {
+      "Product Name": "Microphone",
+      "Company": "Samsung",
+      "MRP": 45827,
+      "Discount": 20,
+      "Rating": 5,
+      "Price": 48000
+    },
+    "24858": {
+      "Product Name": "Spy Camera",
+      "Company": "Lloyd",
+      "MRP": 18012,
+      "Discount": 21,
+      "Rating": 5,
+      "Price": 48000
+    },
+    "99394": {
+      "Product Name": "Microphone",
+      "Company": "Sony",
+      "MRP": 40412,
+      "Discount": 29,
+      "Rating": 5,
+      "Price": 48000
+    },
+    "19377": {
+      "Product Name": "Switch",
+      "Company": "Anchor",
+      "MRP": 48223,
+      "Discount": 28,
+      "Rating": 5,
+      "Price": 48000
+    },
+    "52422": {
+      "Product Name": "Tabelts",
+      "Company": "Bajaj",
+      "MRP": 42354,
+      "Discount": 23,
+      "Rating": 5,
+      "Price": 48000
+    },
+    "56617": {
+      "Product Name": "Refrigerator",
+      "Company": "Acer",
+      "MRP": 23573,
+      "Discount": 20,
+      "Rating": 5,
+      "Price": 48000
+    },
+    "20435": {
+      "Product Name": "Electric Wires",
+      "Company": "Nokia",
+      "MRP": 45866,
+      "Discount": 30,
+      "Rating": 5,
+      "Price": 48000
+    },
+    "93832": {
+      "Product Name": "Bulb",
+      "Company": "LG",
+      "MRP": 24749,
+      "Discount": 28,
+      "Rating": 5,
+      "Price": 48000
+    },
+    "77035": {
+      "Product Name": "SmartWatches",
+      "Company": "Lloyd",
+      "MRP": 16089,
+      "Discount": 30,
+      "Rating": 5,
+      "Price": 48000
+    },
+    "86635": {
+      "Product Name": "Induction",
+      "Company": "Crompton",
+      "MRP": 13342,
+      "Discount": 28,
+      "Rating": 5,
+      "Price": 48000
+    },
+    "21611": {
+      "Product Name": "Mouse",
+      "Company": "Havells",
+      "MRP": 25470,
+      "Discount": 26,
+      "Rating": 5,
+      "Price": 48000
+    },
+    "74473": {
+      "Product Name": "Electric Kettle",
+      "Company": "Samsung",
+      "MRP": 28356,
+      "Discount": 25,
+      "Rating": 5,
+      "Price": 48000
+    },
+    "62794": {
+      "Product Name": "Iron",
+      "Company": "Bajaj",
+      "MRP": 20071,
+      "Discount": 26,
+      "Rating": 5,
+      "Price": 48000
+    },
+    "69010": {
+      "Product Name": "Remote",
+      "Company": "Nokia",
+      "MRP": 42518,
+      "Discount": 20,
+      "Rating": 5,
+      "Price": 48000
+    },
+    "82565": {
+      "Product Name": "Phone",
+      "Company": "Whirlpool",
+      "MRP": 14625,
+      "Discount": 27,
+      "Rating": 5,
+      "Price": 48000
+    },
+    "70783": {
+      "Product Name": "Water Purifiers",
+      "Company": "Lloyd",
+      "MRP": 42585,
+      "Discount": 30,
+      "Rating": 5,
+      "Price": 48000
+    },
+    "77740": {
+      "Product Name": "Memory Card",
+      "Company": "Anchor",
+      "MRP": 29448,
+      "Discount": 28,
+      "Rating": 5,
+      "Price": 48000
+    },
+    "68520": {
+      "Product Name": "Processor",
+      "Company": "HP",
+      "MRP": 31672,
+      "Discount": 21,
+      "Rating": 5,
+      "Price": 48000
+    },
+    "20585": {
+      "Product Name": "RAM",
+      "Company": "Lloyd",
+      "MRP": 34144,
+      "Discount": 21,
+      "Rating": 5,
+      "Price": 48000
+    },
+    "40509": {
+      "Product Name": "Lens",
+      "Company": "Bajaj",
+      "MRP": 17210,
+      "Discount": 27,
+      "Rating": 5,
+      "Price": 48000
+    },
+    "20686": {
+      "Product Name": "HDMI",
+      "Company": "Havells",
+      "MRP": 39763,
+      "Discount": 21,
+      "Rating": 5,
+      "Price": 48000
+    },
+    "71238": {
+      "Product Name": "Keyboard",
+      "Company": "Lloyd",
+      "MRP": 48330,
+      "Discount": 26,
+      "Rating": 5,
+      "Price": 48000
+    },
+    "15210": {
+      "Product Name": "Bulb",
+      "Company": "HCL",
+      "MRP": 29174,
+      "Discount": 29,
+      "Rating": 5,
+      "Price": 48000
+    },
+    "11788": {
+      "Product Name": "LCD",
+      "Company": "LG",
+      "MRP": 20774,
+      "Discount": 22,
+      "Rating": 5,
+      "Price": 48000
+    },
+    "81054": {
+      "Product Name": "Headphone",
+      "Company": "Sony",
+      "MRP": 48153,
+      "Discount": 29,
+      "Rating": 5,
+      "Price": 48000
+    },
+    "37191": {
+      "Product Name": "HDMI",
+      "Company": "Havells",
+      "MRP": 13669,
+      "Discount": 20,
+      "Rating": 5,
+      "Price": 48000
+    },
+    "30755": {
+      "Product Name": "Powerbanks",
+      "Company": "Sony",
+      "MRP": 16979,
+      "Discount": 25,
+      "Rating": 5,
+      "Price": 48000
+    },
+    "69608": {
+      "Product Name": "Keyboard",
+      "Company": "Dell",
+      "MRP": 41003,
+      "Discount": 26,
+      "Rating": 5,
+      "Price": 48000
+    },
+    "79004": {
+      "Product Name": "Scanner",
+      "Company": "Bajaj",
+      "MRP": 27996,
+      "Discount": 24,
+      "Rating": 5,
+      "Price": 48000
+    },
+    "91501": {
+      "Product Name": "Washing Machine",
+      "Company": "Micromaxc",
+      "MRP": 32937,
+      "Discount": 24,
+      "Rating": 5,
+      "Price": 48000
+    },
+    "58492": {
+      "Product Name": "Harddrive",
+      "Company": "Micromaxc",
+      "MRP": 23309,
+      "Discount": 20,
+      "Rating": 5,
+      "Price": 48000
+    },
+    "95732": {
+      "Product Name": "Graphic Card",
+      "Company": "LG",
+      "MRP": 34129,
+      "Discount": 25,
+      "Rating": 5,
+      "Price": 48000
+    },
+    "70112": {
+      "Product Name": "Monitors",
+      "Company": "Havells",
+      "MRP": 47330,
+      "Discount": 30,
+      "Rating": 5,
+      "Price": 48000
+    },
+    "30889": {
+      "Product Name": "Mobile",
+      "Company": "HP",
+      "MRP": 44066,
+      "Discount": 28,
+      "Rating": 5,
+      "Price": 48000
+    },
+    "86541": {
+      "Product Name": "Laptop",
+      "Company": "Acer",
+      "MRP": 29733,
+      "Discount": 21,
+      "Rating": 5,
+      "Price": 48000
+    },
+    "36651": {
+      "Product Name": "Modem",
+      "Company": "Whirlpool",
+      "MRP": 10103,
+      "Discount": 21,
+      "Rating": 5,
+      "Price": 48000
+    },
+    "27713": {
+      "Product Name": "Iron",
+      "Company": "Samsung",
+      "MRP": 23363,
+      "Discount": 27,
+      "Rating": 5,
+      "Price": 48000
+    },
+    "83799": {
+      "Product Name": "Microphone",
+      "Company": "Acer",
+      "MRP": 33640,
+      "Discount": 25,
+      "Rating": 5,
+      "Price": 48000
+    },
+    "19773": {
+      "Product Name": "Processor",
+      "Company": "Samsung",
+      "MRP": 26374,
+      "Discount": 27,
+      "Rating": 5,
+      "Price": 48000
+    },
+    "72230": {
+      "Product Name": "Powerbanks",
+      "Company": "Usha",
+      "MRP": 11233,
+      "Discount": 21,
+      "Rating": 5,
+      "Price": 48000
+    },
+    "81473": {
+      "Product Name": "Water Purifiers",
+      "Company": "Bajaj",
+      "MRP": 31411,
+      "Discount": 24,
+      "Rating": 5,
+      "Price": 48000
+    },
+    "24900": {
+      "Product Name": "SmartWatches",
+      "Company": "Havells",
+      "MRP": 46557,
+      "Discount": 28,
+      "Rating": 5,
+      "Price": 48000
+    },
+    "83432": {
+      "Product Name": "Tablet",
+      "Company": "Lloyd",
+      "MRP": 33053,
+      "Discount": 25,
+      "Rating": 5,
+      "Price": 48000
+    },
+    "71781": {
+      "Product Name": "Routers",
+      "Company": "Anchor",
+      "MRP": 30143,
+      "Discount": 29,
+      "Rating": 5,
+      "Price": 48000
+    },
+    "28992": {
+      "Product Name": "DTH SetUp box",
+      "Company": "Asus",
+      "MRP": 38134,
+      "Discount": 22,
+      "Rating": 5,
+      "Price": 48000
+    },
+    "57482": {
+      "Product Name": "Remote",
+      "Company": "Crompton",
+      "MRP": 37068,
+      "Discount": 27,
+      "Rating": 5,
+      "Price": 48000
+    },
+    "71230": {
+      "Product Name": "Keyboard",
+      "Company": "Micromaxc",
+      "MRP": 38247,
+      "Discount": 25,
+      "Rating": 5,
+      "Price": 48000
+    },
+    "85963": {
+      "Product Name": "LCD",
+      "Company": "Whirlpool",
+      "MRP": 37150,
+      "Discount": 28,
+      "Rating": 5,
+      "Price": 48000
+    },
+    "71451": {
+      "Product Name": "Speakers",
+      "Company": "Usha",
+      "MRP": 38472,
+      "Discount": 22,
+      "Rating": 5,
+      "Price": 48000
+    },
+    "63902": {
+      "Product Name": "Xbox",
+      "Company": "Dell",
+      "MRP": 34605,
+      "Discount": 24,
+      "Rating": 5,
+      "Price": 48000
+    },
+    "33677": {
+      "Product Name": "TV Tuner",
+      "Company": "LG",
+      "MRP": 26699,
+      "Discount": 26,
+      "Rating": 5,
+      "Price": 48000
+    },
+    "50402": {
+      "Product Name": "Modem",
+      "Company": "Nokia",
+      "MRP": 45601,
+      "Discount": 27,
+      "Rating": 5,
+      "Price": 48000
+    },
+    "92960": {
+      "Product Name": "Table Fans",
+      "Company": "Havells",
+      "MRP": 41323,
+      "Discount": 25,
+      "Rating": 5,
+      "Price": 48000
+    },
+    "39033": {
+      "Product Name": "Sewing Machine",
+      "Company": "HCL",
+      "MRP": 14160,
+      "Discount": 27,
+      "Rating": 5,
+      "Price": 48000
+    },
+    "53091": {
+      "Product Name": "AC",
+      "Company": "Samsung",
+      "MRP": 21470,
+      "Discount": 29,
+      "Rating": 5,
+      "Price": 48000
+    },
+    "70218": {
+      "Product Name": "Harddrive",
+      "Company": "Usha",
+      "MRP": 27182,
+      "Discount": 30,
+      "Rating": 5,
+      "Price": 48000
+    },
+    "43843": {
+      "Product Name": "Pendrives",
+      "Company": "Samsung",
+      "MRP": 35461,
+      "Discount": 24,
+      "Rating": 5,
+      "Price": 48000
+    },
+    "21868": {
+      "Product Name": "Immersion Rod",
+      "Company": "Acer",
+      "MRP": 30311,
+      "Discount": 24,
+      "Rating": 5,
+      "Price": 48000
+    },
+    "51369": {
+      "Product Name": "Refrigerator",
+      "Company": "Havells",
+      "MRP": 24538,
+      "Discount": 26,
+      "Rating": 5,
+      "Price": 48000
+    },
+    "62525": {
+      "Product Name": "DVD RW",
+      "Company": "Whirlpool",
+      "MRP": 22389,
+      "Discount": 20,
+      "Rating": 5,
+      "Price": 48000
+    },
+    "24823": {
+      "Product Name": "Pendrives",
+      "Company": "Micromaxc",
+      "MRP": 17550,
+      "Discount": 20,
+      "Rating": 5,
+      "Price": 48000
+    },
+    "97828": {
+      "Product Name": "Electric Kettle",
+      "Company": "Bajaj",
+      "MRP": 23880,
+      "Discount": 27,
+      "Rating": 5,
+      "Price": 48000
+    },
+    "40904": {
+      "Product Name": "Stabilizer",
+      "Company": "Hitachi",
+      "MRP": 23911,
+      "Discount": 26,
+      "Rating": 5,
+      "Price": 48000
+    },
+    "17087": {
+      "Product Name": "Speakers",
+      "Company": "Crompton",
+      "MRP": 13385,
+      "Discount": 27,
+      "Rating": 5,
+      "Price": 48000
+    },
+    "57818": {
+      "Product Name": "Mobile",
+      "Company": "Lloyd",
+      "MRP": 49274,
+      "Discount": 26,
+      "Rating": 5,
+      "Price": 48000
+    },
+    "65876": {
+      "Product Name": "USB Cable",
+      "Company": "Bajaj",
+      "MRP": 19235,
+      "Discount": 27,
+      "Rating": 5,
+      "Price": 48000
+    },
+    "72622": {
+      "Product Name": "USB Cable",
+      "Company": "HP",
+      "MRP": 25347,
+      "Discount": 22,
+      "Rating": 5,
+      "Price": 48000
+    },
+    "57116": {
+      "Product Name": "Toaster",
+      "Company": "HCL",
+      "MRP": 17990,
+      "Discount": 25,
+      "Rating": 5,
+      "Price": 48000
+    },
+    "29785": {
+      "Product Name": "Fan",
+      "Company": "HCL",
+      "MRP": 18919,
+      "Discount": 23,
+      "Rating": 5,
+      "Price": 48000
+    },
+    "92379": {
+      "Product Name": "Sewing Machine",
+      "Company": "Bajaj",
+      "MRP": 35475,
+      "Discount": 20,
+      "Rating": 5,
+      "Price": 48000
+    },
+    "94684": {
+      "Product Name": "Remote",
+      "Company": "Anchor",
+      "MRP": 17205,
+      "Discount": 29,
+      "Rating": 5,
+      "Price": 48000
+    },
+    "79843": {
+      "Product Name": "Microwaves",
+      "Company": "Lloyd",
+      "MRP": 27640,
+      "Discount": 22,
+      "Rating": 5,
+      "Price": 48000
+    },
+    "40837": {
+      "Product Name": "Electric Kettle",
+      "Company": "Samsung",
+      "MRP": 22412,
+      "Discount": 26,
+      "Rating": 5,
+      "Price": 48000
+    },
+    "66809": {
+      "Product Name": "Cooler",
+      "Company": "Samsung",
+      "MRP": 36162,
+      "Discount": 22,
+      "Rating": 5,
+      "Price": 48000
+    },
+    "32664": {
+      "Product Name": "DTH SetUp box",
+      "Company": "Acer",
+      "MRP": 34924,
+      "Discount": 30,
+      "Rating": 5,
+      "Price": 48000
+    },
+    "74432": {
+      "Product Name": "Inverter",
+      "Company": "Sony",
+      "MRP": 13034,
+      "Discount": 21,
+      "Rating": 5,
+      "Price": 48000
+    },
+    "50399": {
+      "Product Name": "DSLR",
+      "Company": "HCL",
+      "MRP": 26277,
+      "Discount": 23,
+      "Rating": 5,
+      "Price": 48000
+    },
+    "96048": {
+      "Product Name": "USB Cable",
+      "Company": "Whirlpool",
+      "MRP": 35586,
+      "Discount": 27,
+      "Rating": 5,
+      "Price": 48000
+    },
+    "23533": {
+      "Product Name": "Headphone",
+      "Company": "Crompton",
+      "MRP": 14245,
+      "Discount": 26,
+      "Rating": 5,
+      "Price": 48000
+    },
+    "49339": {
+      "Product Name": "Socket",
+      "Company": "Bajaj",
+      "MRP": 39290,
+      "Discount": 22,
+      "Rating": 5,
+      "Price": 48000
+    },
+    "99799": {
+      "Product Name": "Electric Kettle",
+      "Company": "Lloyd",
+      "MRP": 23327,
+      "Discount": 29,
+      "Rating": 5,
+      "Price": 48000
+    },
+    "73098": {
+      "Product Name": "RAM",
+      "Company": "Micromaxc",
+      "MRP": 25180,
+      "Discount": 21,
+      "Rating": 5,
+      "Price": 48000
+    },
+    "20016": {
+      "Product Name": "Processor",
+      "Company": "Usha",
+      "MRP": 14542,
+      "Discount": 28,
+      "Rating": 5,
+      "Price": 48000
+    },
+    "41863": {
+      "Product Name": "Pendrives",
+      "Company": "LG",
+      "MRP": 19285,
+      "Discount": 29,
+      "Rating": 5,
+      "Price": 48000
+    },
+    "92237": {
+      "Product Name": "Microphone",
+      "Company": "LG",
+      "MRP": 38732,
+      "Discount": 30,
+      "Rating": 5,
+      "Price": 48000
+    },
+    "54154": {
+      "Product Name": "Charger",
+      "Company": "HCL",
+      "MRP": 25225,
+      "Discount": 26,
+      "Rating": 5,
+      "Price": 48000
+    },
+    "81734": {
+      "Product Name": "Water Purifiers",
+      "Company": "Usha",
+      "MRP": 44722,
+      "Discount": 22,
+      "Rating": 5,
+      "Price": 48000
+    },
+    "23221": {
+      "Product Name": "Electric Kettle",
+      "Company": "LG",
+      "MRP": 17787,
+      "Discount": 25,
+      "Rating": 5,
+      "Price": 48000
+    },
+    "76482": {
+      "Product Name": "USB Cable",
+      "Company": "HP",
+      "MRP": 44159,
+      "Discount": 25,
+      "Rating": 5,
+      "Price": 48000
+    },
+    "51814": {
+      "Product Name": "Mouse",
+      "Company": "Samsung",
+      "MRP": 48597,
+      "Discount": 26,
+      "Rating": 5,
+      "Price": 48000
+    },
+    "66898": {
+      "Product Name": "Induction",
+      "Company": "Usha",
+      "MRP": 32834,
+      "Discount": 30,
+      "Rating": 5,
+      "Price": 48000
+    },
+    "44524": {
+      "Product Name": "Powerbanks",
+      "Company": "Whirlpool",
+      "MRP": 45505,
+      "Discount": 21,
+      "Rating": 5,
+      "Price": 48000
+    },
+    "68357": {
+      "Product Name": "Headphone",
+      "Company": "Bajaj",
+      "MRP": 13844,
+      "Discount": 22,
+      "Rating": 5,
+      "Price": 48000
+    },
+    "14028": {
+      "Product Name": "Refrigerator",
+      "Company": "Whirlpool",
+      "MRP": 17161,
+      "Discount": 29,
+      "Rating": 5,
+      "Price": 48000
+    },
+    "43756": {
+      "Product Name": "Stabilizer",
+      "Company": "Asus",
+      "MRP": 22480,
+      "Discount": 27,
+      "Rating": 5,
+      "Price": 48000
+    },
+    "66828": {
+      "Product Name": "Harddrive",
+      "Company": "Micromaxc",
+      "MRP": 43236,
+      "Discount": 27,
+      "Rating": 5,
+      "Price": 48000
+    },
+    "44048": {
+      "Product Name": "Inverter",
+      "Company": "Bajaj",
+      "MRP": 39566,
+      "Discount": 20,
+      "Rating": 5,
+      "Price": 48000
+    },
+    "79085": {
+      "Product Name": "TV",
+      "Company": "HCL",
+      "MRP": 42695,
+      "Discount": 20,
+      "Rating": 5,
+      "Price": 48000
+    },
+    "33555": {
+      "Product Name": "Spy Camera",
+      "Company": "Dell",
+      "MRP": 37421,
+      "Discount": 26,
+      "Rating": 5,
+      "Price": 48000
+    },
+    "39052": {
+      "Product Name": "DTH SetUp box",
+      "Company": "Nokia",
+      "MRP": 36821,
+      "Discount": 29,
+      "Rating": 5,
+      "Price": 48000
+    },
+    "22896": {
+      "Product Name": "Modem",
+      "Company": "Hitachi",
+      "MRP": 40731,
+      "Discount": 23,
+      "Rating": 5,
+      "Price": 48000
+    },
+    "47490": {
+      "Product Name": "Soundbars",
+      "Company": "HCL",
+      "MRP": 37018,
+      "Discount": 25,
+      "Rating": 5,
+      "Price": 48000
+    }
+  }
+}
