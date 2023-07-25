@@ -1,2 +1,12 @@
 # py_file
-Their is all python related program
+There is all python related program
+From basic to advance like
+List
+Tuple
+Set
+Dictionary
+Coditionals
+Loop
+Function
+Class
+OOPS
